@@ -11,6 +11,7 @@ public class list {
         for(String s: ls){
             System.out.println(s);
         }
-        System.out.println("Element at Index 1 :" + li.get(1));
+        System.out.println("Element at Index 1 :" + ls.get(1));
+        
      }
 }
