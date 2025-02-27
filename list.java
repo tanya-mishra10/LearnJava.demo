@@ -12,6 +12,7 @@ public class list {
             System.out.println(s);
         }
         System.out.println("Element at Index 1 :" + ls.get(1));
-        
+        li.set(3, "c++");
+        System.out.println("updating list: "+ li);
      }
 }
