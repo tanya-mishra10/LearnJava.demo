@@ -23,7 +23,7 @@ public class Simpleguil implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        button.setText("I have been clicked");
+        button.setText("i have been clicked");
     }
 }
 
